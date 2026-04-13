@@ -39,14 +39,14 @@
 
 ---
 
-## Python 专项
+<!-- ## Python 专项
 
 - [ ] `except Exception` 是否过于宽泛
 - [ ] 可变默认参数（`def f(x=[])`）
 - [ ] `is` vs `==` 混用（仅 `None` 用 `is`）
 - [ ] f-string 或 `.format()` 中是否有未转义的用户输入
 - [ ] 上下文管理器（`with`）是否用于文件/锁/连接
-- [ ] 类型提示与实际行为是否一致
+- [ ] 类型提示与实际行为是否一致 -->
 
 ## JavaScript/TypeScript 专项
 
@@ -57,13 +57,13 @@
 - [ ] `innerHTML` 赋值是否经过 sanitize
 - [ ] `eval()` / `new Function()` 是否使用了用户输入
 
-## Java/Kotlin 专项
+<!-- ## Java/Kotlin 专项
 
 - [ ] `equals()` vs `==` 混用（对象比较）
 - [ ] `NullPointerException` 风险点
 - [ ] `synchronized` 范围是否过大或过小
 - [ ] Stream 是否在需要时关闭
-- [ ] 字符串拼接在循环中是否用 `StringBuilder`
+- [ ] 字符串拼接在循环中是否用 `StringBuilder` -->
 
 ## Go 专项
 
